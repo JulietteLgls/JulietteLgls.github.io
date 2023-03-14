@@ -1,0 +1,11 @@
++++
+title = "Species abundance distributions and numerical dominance in gastrointestinal helminth communities of fish hosts"
+date = 2008-01-01
+authors = ["R. Poulin", "J. L. Luque", "F. Guilhaumon", "D. Mouillot"]
+publication_types = ["2"]
+abstract = "The abundances of different species in a parasite community are never similar: there is typically one or a few numerically dominant species and many species with low abundance. Here, we determine whether basic features of parasite communities are associated with strong dominance by one or a few species, among 39 component communities of gastrointestinal helminths in marine fishes from Brazil. First, we tested whether the shape of the species abundance distribution in these communities fits that predicted by several theoretical models, using a goodness-of-fit procedure. Only the canonical lognormal model could be rejected for 5 out of 39 communities; all other comparisons of observed and predicted abundance distributions showed no significant differences, although this may be due to limited statistical power. Second, we used the ratio between the abundance of the most abundant species and either the second or third most abundant species, as indices of dominance; these show, for instance, that the dominant species in a community is typically twice, but sometimes over ten times, as abundant as the next most abundant species. We found that these ratios were not influenced by either the community's species richness, the mean number of individual parasites per host, or the taxonomic identity of the dominant species. However, the abundance ratio between the first and third most abundant species in a community was significantly correlated with an independent index of species interactivity, based on the likelihood that the different parasite species in a component community co-occur in the same host individuals: the difference in abundance between the dominant and third most abundant species was greater in communities characterized by weak interactions. These findings suggest that strong interactions may lead to greater evenness in the abundance of species, and that numerical dominance is more likely to result from interspecific differences in recruitment rates."
+selected = "false"
+publication = "*Journal of Helminthology*"
+doi = "10.1017/S0022149X08982626"
++++
+

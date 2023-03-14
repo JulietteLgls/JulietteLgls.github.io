@@ -1,0 +1,12 @@
++++
+title = "elementr: An R package for reducing elemental data from LA-ICPMS analysis of biological calcified structures"
+date = 2017-01-01
+authors = ["Charlotte Sirot", "Franck Ferraton", "Jacques Panfili", "Amber Robyn Childs", "François Guilhaumon", "Audrey M. Darnaude"]
+publication_types = ["2"]
+abstract = "1. Elemental analysis of biological calcified structures (e.g. fish otoliths, mollusc shelves, coral skeletons or fish and shark bones) provides invaluable information regarding ecological processes for many aquatic species. Despite this importance, the reduction of the raw data obtained through Laser-ablation Inductively Coupled Plasma Mass Spectrometry (LA-ICPMS) (i.e. the conversion of the machine raw signal into elemental concentrations) remains a challenge as the tools developed so far for carrying out this task have important limitations for aquatic ecologists. 2. Here, we introduce the elementr R-package which provides a handy, reliable and transparent way to reduce elemental data acquired from spot or transect LA-ICPMS analysis of biological calcified structures. This free and open-source software, implemented based on state-of-the-art literature, handles data from both standards and samples, allowing fast and simultaneous calculations of concentration for any chemical element, correction for potential machine drift, and realignment and averaging for sample replicates when needed. 3. The major attributes of elementr are: (i) its user-friendly graphical interface which provides widgets to set all the reduction settings (i.e. no programming skills are required to run it), (ii) its reactivity whereby the software continuously observes any setting change made by the user, re-calculates and displays all updated results, allowing therefore users to visually check the validity of their settings and to tune them if needed and (iii) an object oriented underlying that facilitates subsequent handling of LA-ICPMS data in R. 4. Despite the elementr design being most suited to the needs of aquatic ecologists, its use could be broadened to other research fields (i.e. geology, material engineering) due to its flexibility. Moreover, the open-source approach used for programming this software allows its expansion in order to refine calculation procedures or to add new functionalities."
+selected = "false"
+publication = "*Methods in Ecology and Evolution*"
+tags = ["graphical user interface", "laser ablation", "microchemistry", "object-oriented programming", "spot and transect reduction"]
+doi = "10.1111/2041-210X.12822"
++++
+

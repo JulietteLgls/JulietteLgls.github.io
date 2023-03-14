@@ -1,0 +1,12 @@
++++
+title = "The Mediterranean Sea as a 'cul-de-sac' for endemic fishes facing climate change"
+date = 2010-01-01
+authors = ["Frida Ben Rais Lasram", "François Guilhaumon", "Camille Albouy", "Samuel Somot", "Wilfried Thuiller", "David Mouillot"]
+publication_types = ["2"]
+abstract = "The Mediterranean Sea is a hotspot of biodiversity, and climate warming is expected to have a significant influence on its endemic fish species. However, no previous studies have predicted whether fish species will experience geographic range extensions or contractions as a consequence of warming. Here, we projected the potential future climatic niches of 75 Mediterranean Sea endemic fish species based on a global warming scenario implemented with the Mediterranean model OPAMED8 and a multimodel inference, which included uncertainty. By 2070–2099, the average surface temperature of the Mediterranean Sea was projected to warm by 3.1 °C. Projections for 2041–2060 are that 25 species would qualify for the International Union for the Conservation of Nature and Natural Resources (IUCN) Red List, and six species would become extinct. By 2070–2099, 45 species were expected to qualify for the IUCN Red List whereas 14 were expected to become extinct. By the middle of the 21st century, the coldest areas of the Mediterranean Sea (Adriatic Sea and Gulf of Lion) would act as a refuge for cold-water species, but by the end of the century, those areas were projected to become a ‘cul-de-sac' that would drive those species towards extinction. In addition, the range size of endemic species was projected to undergo extensive fragmentation, which is a potentially aggravating factor. Since a majority of endemic fishes are specialists, regarding substratum and diet, we may expect a reduced ability to track projected climatic niches. As a whole, 25% of the Mediterranean Sea continental shelf was predicted to experience a total modification of endemic species assemblages by the end of the 21st century. This expected turnover rate could be mitigated by marine protected areas or accelerated by fishing pressure or competition from exotic fishes. It remains a challenge to predict how these assemblage modifications might affect ecosystem function."
+selected = "false"
+publication = "*Global Change Biology*"
+tags = ["BIOMOD", "Fragmentation", "Global warming", "Habitat suitability model (HSM)", "IUCN", "Species turnover", "Species vulnerability"]
+doi = "10.1111/j.1365-2486.2010.02224.x"
++++
+

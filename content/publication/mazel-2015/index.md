@@ -1,0 +1,12 @@
++++
+title = "Mammalian phylogenetic diversity-area relationships at a continental scale"
+date = 2015-01-01
+authors = ["Florent Mazel", "Julien Renaud", "François Guilhaumon", "David Mouillot", "Dominique Gravel", "Wilfried Thuiller"]
+publication_types = ["2"]
+abstract = "In analogy to the species–area relationship (SAR), one of the few laws in ecology, the phylogenetic diversity–area relationship (PDAR) describes the tendency of phylogenetic diversity (PD) to increase with area. Although investigating PDAR has the potential to unravel the underlying processes shaping assemblages across spatial scales and to predict PD loss through habitat reduction, it has been little investigated so far. Focusing on PD has noticeable advantages compared to species richness (SR), since PD also gives insights on processes such as speciation/extinction, assembly rules and ecosystem functioning. Here we investigate the universality and pervasiveness of the PDAR at continental scale using terrestrial mammals as study case. We define the relative robustness of PD (compared to SR) to habitat loss as the area between the standardized PDAR and standardized SAR (i.e., standardized by the diversity of the largest spatial window) divided by the area under the standardized SAR only. This metric quantifies the relative increase of PD robustness compared to SR robustness. We show that PD robustness is higher than SR robustness but that it varies among continents. We further use a null model approach to disentangle the relative effect of phylogenetic tree shape and nonrandom spatial distribution of evolutionary history on the PDAR. We find that, for most spatial scales and for all continents except Eurasia, PDARs are not different from expected by a model using only the observed SAR and the shape of the phylogenetic tree at continental scale. Interestingly, we detect a strong phylogenetic structure of the Eurasian PDAR that can be predicted by a model that specifically account for a finer biogeographical delineation of this continent. In conclusion, the relative robustness of PD to habitat loss compared to species richness is determined by the phylogenetic tree shape but also depends on the spatial structure of PD."
+selected = "false"
+publication = "*Ecology*"
+tags = ["Conservation biogeography", "Habitat loss", "Null models", "Phylogenetic diversity", "Species-area relationship", "Strict nested design"]
+doi = "10.1890/14-1858.1"
++++
+

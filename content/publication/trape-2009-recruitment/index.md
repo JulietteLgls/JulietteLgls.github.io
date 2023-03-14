@@ -1,0 +1,12 @@
++++
+title = "Recruitment patterns of young-of-the-year mugilid fishes in a West African estuary impacted by climate change"
+date = 2009-01-01
+authors = ["Sébastien Trape", "Jean Dominique Durand", "François Guilhaumon", "Laurent Vigliola", "Jacques Panfili"]
+publication_types = ["2"]
+abstract = "With the persistence of the sub-Saharan drought since the 1970s, the Sine Saloum estuary (Senegal) - the second largest coastal Biosphere Reserve of West-Africa - has become an \"inverse estuary\" and hypersaline (salinity textgreater 60) in its upstream part. A one-year survey was conducted from April 2007 to March 2008 at eight sites distributed along the salinity gradient, to investigate the recruitment patterns of young-of-the-year mugilids in such an impacted ecosystem. Fishes were sampled monthly with a conical net and a beach seine in salinities ranging from 31 to 104. Samples were identified to the species level. For the smallest individuals (textless20 mm SL) a PCR-RFLP technique, developed on the mitochondrial 16S ribosomal RNA region, was used for identification. A total of 8438 juveniles belonging to six of the eight species of mugilids known for the tropical Eastern Atlantic were collected: Mugil bananensis, Mugil cephalus, Mugil curema, Liza dumerili, Liza falcipinnis and Liza grandisquamis. One species, L. dumerili, represented 89% of the total catch. Length-frequency distributions revealed that M. cephalus and L. dumerili preferentially recruited during the dry season whereas the recruitment of M. curema, M. bananensis and L. falcipinnis generally occurred during the wet season. Minimal size at recruitment ranged from 9 to 19 mm SL depending on the species, the smallest size being that of L. dumerili. Despite the general salinity increase in the estuary, most parts of the Sine Saloum were suitable for the juveniles. Only the hypersaline area in the uppermost part of the estuary presented very low fish abundance for all species. According to the species, small recruits (12-20 mm SL) were collected at salinities up to 47-78, suggesting that osmoregulatory capacities had been gained early during ontogenesis, possibly resulting from an adaptation of these populations to changing environmental conditions. textcopyright 2009 Elsevier Ltd. All rights reserved."
+selected = "false"
+publication = "*Estuarine, Coastal and Shelf Science*"
+tags = ["Mugilidae", "West Africa", "habitat use", "hypersaline", "inverse estuary", "juveniles"]
+doi = "10.1016/j.ecss.2009.08.018"
++++
+
