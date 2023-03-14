@@ -1,6 +1,6 @@
 # MerMade
 ________________
-
+[!photoprofil](/images/photo_profil.jpeg)]
 <image src = "/images/8.jpg" align="left"></image>Juliette Langlois
 @ :   juliette.a.langlois@gmail.com
 tel : 0613880014
