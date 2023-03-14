@@ -1,1 +1,10 @@
+# theme: jekyll-theme-minimal
+title: Mermade by Juliette Langlois
+logo: /images/logo_cplx.jpg
+description: Mermade is a project led and maintained by Juliette Langlois.
+show_downloads: false #can be true
+google_analytics:
 theme: jekyll-theme-minimal
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
