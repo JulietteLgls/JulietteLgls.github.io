@@ -1,28 +1,28 @@
 
 ## Education
 
-   Avril – Juin 2022	Diploma of the university of montpellier on the ecological restauration of shallow coastal areas
+Avril – Juin 2022	Diploma of the university of Montpellier on the ecological restauration of shallow coastal areas
 
-   Dec. 2019	One-week course organized by the Cesab-FRB and the GDR EcoStat “Good practices for a reproductible research in numeric ecology” (35 hours), Montpellier, France.
+Dec. 2019	One-week course organized by the Cesab-FRB and the GDR EcoStat “Good practices for a reproductible research in numeric ecology” (35 hours), Montpellier, France.
    
-   2016-2018	Msc Oceanography, Aix-Marseille University, France. Management and protection of marine environment (upper 2nd class honors).
+2016-2018	Msc Oceanography, Aix-Marseille University, France. Management and protection of marine environment (upper 2nd class honors).
 
 
 ## Experiences
 
-   Sept. 2022 – présent	Chargée de mission Natura 2000 en mer, Parc Naturel Régional de Camargue, Arles
+Sept. 2022 – présent	Chargée de mission Natura 2000 en mer, Parc Naturel Régional de Camargue, Arles
 Animation du site Natura 2000 Camargue sur les enjeux littoraux et marins.
 
-   Jun. 2021-Aug 2021: Study Engineer, Andromède Océanologie, Carnon, France.
+Jun. 2021-Aug 2021: Study Engineer, Andromède Océanologie, Carnon, France.
 Estimate and map the aesthetic value of reef fish communities. Chairs: Pr. Mouillot D., Dr Mouquet N. & Dr Deter J.
 
-   Dec. 2019 – May 2021: Study engineer, University of Montpellier, UMR MARBEC, France.
+Dec. 2019 – May 2021: Study engineer, University of Montpellier, UMR MARBEC, France.
 Analysis of the distribution of the aesthetic value of reef fishes according to ecological and environmental conditions (REEF FUTURES project). Chairs: Pr. Mouillot D. & Dr. Mouquet N.
 
-   Nov. 2018 – May 2019: Study Engineer, CNRS, UMR MARBEC, Montpellier, France.
+Nov. 2018 – May 2019: Study Engineer, CNRS, UMR MARBEC, Montpellier, France.
 Analysis and map of the relationship between the aesthetic value of coralligenous reefs and their diversity. (French Water Agency Rhône Méditerrannée Corse). Chairs: Dr. Guilhaumon F. & Dr. Mouquet N.
 
-   Feb. – Jul. 2018:  Internship, UMR, Andromède Océanologie (Montpellier, France).
+Feb. – Jul. 2018:  Internship, UMR, Andromède Océanologie (Montpellier, France).
 Cartographie de la valeur esthétique des récifs coralligènes de méditerranée française. Directeurs : Dr. Guilhaumon F., Dr. Holon F. & Dr. Mouquet N.
 
 
